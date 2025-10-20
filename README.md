@@ -23,13 +23,10 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="300">
 <b>Frontend</b>
 </td>
-<td align="center" width="200">
-<b>Backend</b>
-</td>
-<td align="center" width="200">
+<td align="center" width="300">
 <b>Tools</b>
 </td>
 </tr>
@@ -42,11 +39,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</td>
-<td align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </td>
 <td align="center">
