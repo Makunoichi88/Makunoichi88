@@ -13,7 +13,6 @@
 ```typescript
 const developer = {
   name: "Frontend Developer",
-  location: "Colombia",
   currentFocus: "Angular & Modern Web Development",
   learning: ["Design Patterns", "Clean Architecture", "Best Practices"],
   interests: ["UI/UX", "Performance Optimization", "Scalable Apps"]
