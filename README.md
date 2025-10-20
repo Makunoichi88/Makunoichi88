@@ -27,9 +27,6 @@
 <b>Frontend</b>
 </td>
 <td align="center" width="200">
-<b>Backend</b>
-</td>
-<td align="center" width="200">
 <b>Tools</b>
 </td>
 </tr>
@@ -46,7 +43,6 @@
 </td>
 <td align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </td>
 <td align="center">
