@@ -8,7 +8,7 @@
 
 ---
 
-## Sobre mí 💭
+## Sobre mí 
 
 - Actualmente profundizando en **Angular** y explorando nuevas prácticas de desarrollo
 - Enfocado en crear interfaces intuitivas y aplicaciones web robustas
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <table>
 <tr>
@@ -27,10 +27,6 @@
 <b>Frontend</b>
 </td>
 <td align="center" width="200">
-<b>Backend</b>
-</td>
-<td align="center" width="200">
-<b>Tools</b>
 </td>
 </tr>
 <tr>
@@ -46,14 +42,6 @@
 </td>
 <td align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</td>
-<td align="center">
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </td>
 </tr>
 </table>
@@ -62,7 +50,7 @@
 
 ---
 
-## 📚 Actualmente
+## Actualmente
 
 ```typescript
 const developer = {
