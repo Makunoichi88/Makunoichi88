@@ -26,9 +26,7 @@
 <td align="center" width="200">
 <b>Frontend</b>
 </td>
-<td align="center" width="200">
-<b>Tools</b>
-</td>
+
 </tr>
 <tr>
 <td align="center">
