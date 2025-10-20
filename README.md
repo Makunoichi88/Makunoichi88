@@ -16,9 +16,6 @@ Actualmente profundizando en Angular y explorando nuevas prácticas de desarroll
 - Angular
 - Tailwind CSS
 
-**Backend**
-- Node.js
-
 **Herramientas**
 - Visual Studio Code
 
