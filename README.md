@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="assets/kobeni.jpg" width="500" style="border-radius: 20px; object-fit: cover;"/>
+<img src="assets/kobeni.png" width="500" style="border-radius: 20px; object-fit: cover;"/>
 
 </div>
 
