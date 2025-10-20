@@ -1,16 +1,31 @@
-## Hi there 👋
+# Desarrollador Frontend
 
-<!--
-**Makunoichi88/Makunoichi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de desarrollo web enfocado en la creación de interfaces de usuario modernas y funcionales.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente profundizando en Angular y explorando nuevas prácticas de desarrollo frontend. Mi objetivo es construir aplicaciones web eficientes y bien estructuradas.
+
+## Stack Tecnológico
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
+- Tailwind CSS
+
+**Backend**
+- Node.js
+
+**Herramientas**
+- Visual Studio Code
+
+## En qué estoy trabajando
+
+Aprendiendo Angular y perfeccionando mis habilidades en desarrollo web frontend. Explorando patrones de diseño y mejores prácticas para escribir código limpio y mantenible.
+
+## Enfoque
+
+Desarrollo frontend con énfasis en código limpio, componentes reutilizables y experiencias de usuario fluidas.
