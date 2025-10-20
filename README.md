@@ -74,17 +74,3 @@ const developer = {
 
 ---
 
-## 🎯 Filosofía de Desarrollo
-
-- **Código limpio y mantenible** - Escribir código que otros puedan entender
-- **Componentes reutilizables** - DRY (Don't Repeat Yourself)
-- **Experiencias de usuario fluidas** - Performance y accesibilidad
-- **Aprendizaje continuo** - Siempre hay algo nuevo que aprender
-
----
-
-<div align="center">
-
-*Aprendiendo constantemente, construyendo consistentemente*
-
-</div>
