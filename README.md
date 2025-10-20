@@ -26,8 +26,7 @@
 <td align="center" width="200">
 <b>Frontend</b>
 </td>
-<td align="center" width="200">
-</td>
+
 </tr>
 <tr>
 <td align="center">
@@ -41,6 +40,7 @@
 
 </td>
 <td align="center">
+
 
 </td>
 </tr>
