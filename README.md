@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Frontend+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Frontend+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+
+<br/>
 
 <img src="assets/kobeni.jpg" width="500" style="border-radius: 20px; object-fit: cover;"/>
 
