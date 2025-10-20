@@ -1,28 +1,35 @@
-# Desarrollador Frontend
+# Frontend Developer
 
-Estudiante de desarrollo web enfocado en la creación de interfaces de usuario modernas y funcionales.
+> Construyendo experiencias web modernas y eficientes
 
 ## Sobre mí
 
-Actualmente profundizando en Angular y explorando nuevas prácticas de desarrollo frontend. Mi objetivo es construir aplicaciones web eficientes y bien estructuradas.
+Desarrollador frontend en formación, enfocado en crear interfaces intuitivas y aplicaciones web robustas. Actualmente profundizando en Angular y explorando arquitecturas escalables para el desarrollo frontend.
+
+---
 
 ## Stack Tecnológico
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Angular
-- Tailwind CSS
+### Frontend
+```
+HTML • CSS • JavaScript • TypeScript
+```
 
-**Herramientas**
-- Visual Studio Code
+### Frameworks & Libraries
+```
+Angular • Tailwind CSS
+```
 
-## En qué estoy trabajando
+### Herramientas
+```
+Visual Studio Code
+```
 
-Aprendiendo Angular y perfeccionando mis habilidades en desarrollo web frontend. Explorando patrones de diseño y mejores prácticas para escribir código limpio y mantenible.
+---
 
-## Enfoque
+## Actualmente
 
-Desarrollo frontend con énfasis en código limpio, componentes reutilizables y experiencias de usuario fluidas.
+Estudiando Angular y perfeccionando habilidades en desarrollo web frontend. Mi enfoque está en escribir código limpio, crear componentes reutilizables y aplicar las mejores prácticas de la industria.
+
+---
+
