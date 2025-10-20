@@ -1,35 +1,90 @@
+<div align="center">
+
 # Frontend Developer
 
 > Construyendo experiencias web modernas y eficientes
 
-## Sobre mí
-
-Desarrollador frontend en formación, enfocado en crear interfaces intuitivas y aplicaciones web robustas. Actualmente profundizando en Angular y explorando arquitecturas escalables para el desarrollo frontend.
+</div>
 
 ---
 
-## Stack Tecnológico
+## Sobre mí 💭
 
-### Frontend
-```
-HTML • CSS • JavaScript • TypeScript
-```
+- Actualmente profundizando en **Angular** y explorando nuevas prácticas de desarrollo
+- Enfocado en crear interfaces intuitivas y aplicaciones web robustas
+- Aprendiendo constantemente sobre arquitecturas escalables
+- Apasionado por el código limpio y las mejores prácticas
 
-### Frameworks & Libraries
-```
-Angular • Tailwind CSS
-```
+---
 
-### Herramientas
-```
-Visual Studio Code
+<div align="center">
+
+### 🛠️ Stack Tecnológico
+
+<table>
+<tr>
+<td align="center" width="200">
+<b>Frontend</b>
+</td>
+<td align="center" width="200">
+<b>Backend</b>
+</td>
+<td align="center" width="200">
+<b>Tools</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</td>
+<td align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</td>
+<td align="center">
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📚 Actualmente
+
+```typescript
+const developer = {
+  learning: ['Angular', 'Best Practices', 'Design Patterns'],
+  focus: 'Frontend Development',
+  goals: ['Clean Code', 'Scalable Architecture', 'Great UX']
+};
 ```
 
 ---
 
-## Actualmente
+## 🎯 Filosofía de Desarrollo
 
-Estudiando Angular y perfeccionando habilidades en desarrollo web frontend. Mi enfoque está en escribir código limpio, crear componentes reutilizables y aplicar las mejores prácticas de la industria.
+- **Código limpio y mantenible** - Escribir código que otros puedan entender
+- **Componentes reutilizables** - DRY (Don't Repeat Yourself)
+- **Experiencias de usuario fluidas** - Performance y accesibilidad
+- **Aprendizaje continuo** - Siempre hay algo nuevo que aprender
 
 ---
 
+<div align="center">
+
+*Aprendiendo constantemente, construyendo consistentemente*
+
+</div>
